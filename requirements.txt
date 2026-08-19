@@ -1,0 +1,11 @@
+streamlit
+google-genai
+python-dotenv
+chromadb
+langgraph
+fastapi
+uvicorn
+requests
+faster-whisper
+pypdf
+python-docx
